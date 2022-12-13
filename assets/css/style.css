@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Lato:wght@300&display=swap');
 
 body {
+    background-position: 0in;
     font-family: 'Courier New', Courier, monospace, sans-serif;
     background-color: #ede4df8f;
     overflow: scroll;
@@ -21,7 +22,7 @@ nav {
 nav > a {
     text-decoration: none;
     color: #3a3a3a;
-    border-left: 3px solid;
+    border-left: 1px solid;
     padding: 5px 10p;
 }
 
@@ -58,4 +59,11 @@ h2 {
     text-align: center;
     display: block;
     margin: 150px;
+}
+
+/* photos index */
+
+#box {
+    margin: 135px;
+    display: block;
 }
