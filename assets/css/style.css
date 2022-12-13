@@ -82,6 +82,8 @@ fotter {
     border-top: 1px solid #cdcdcd;
     display: block;
     margin: none;
+    bottom: 0;
+    left: 0;
 }
 
 #social-networks {
@@ -90,7 +92,7 @@ fotter {
     background-color: #3a3a3a;
 }
 #social-networks i {
-    font-size: 160px;
+    font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: beige;
