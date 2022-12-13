@@ -297,4 +297,14 @@ input[type="submit"]:focus {
     transition: 0.2s ease;
 }
 
+/* Media queries */
+/* For larger to medium screen size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    body{
+        padding-bottom: 1600px;
+
+    }
+    #quotes {
+        margin-top: -300px;
+    }
 }
