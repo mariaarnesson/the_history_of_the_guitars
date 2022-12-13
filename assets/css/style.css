@@ -28,3 +28,34 @@ nav > a {
 nav > a:hover {
     color: silver;
 }
+
+h1 {
+    font-family: 'Lucida Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.284);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 12px;
+}
+
+h2 {
+    font-family: Caveat, sans-serif;
+    text-align: center;
+    letter-spacing: 4px;
+
+}
+
+#start {
+    float: right;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+/* first paragraph index */
+
+#welcome {
+    text-align: center;
+    display: block;
+    margin: 150px;
+}
