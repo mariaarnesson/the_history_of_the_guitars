@@ -102,3 +102,26 @@ fotter {
     color: #a69c95;
     text-align: center;
 }
+/* types of guitars */
+
+.acoustic-guitar {
+    text-align: center;
+    display: block;
+    margin: 150px;
+}
+.electric-guitar {
+    text-align: center;
+    display: block;
+    margin: 150px;
+
+}
+.classical-guitar {
+    text-align: center;
+    display: block;
+    margin: 150px;
+}
+.jazz-guitar {
+    text-align: center;
+    display: block;
+    margin: 150px;
+}
