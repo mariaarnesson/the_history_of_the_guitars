@@ -146,3 +146,85 @@ fotter {
     margin-top: 100px;
     margin-left: 150px;
 }
+
+/* timeline */
+#timeline {
+    margin: 50px auto;
+    margin-left: 150px;
+}
+
+.circle-conainer {
+    width: 150px;
+    height: 150px;
+    padding: 0px;
+    border-style: solid;
+    border-color: rgb(252, 248, 248);
+    border-width: 1px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+.circle-container h2 {
+    text-align: center;
+    margin-bottom: -30px;
+    margin-right: 0px;
+}
+
+.circle-cover {
+    background-color: aquamarine;
+    height: 110%;
+    border-radius: 50%;
+}
+.circle-cover2 {
+    background-color: #117d3e8f;
+    height: 110%;
+    border-radius: 50%;
+}
+.classical {
+    float: right;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: -150px;
+    margin-left: 0px;
+    color: #8e8282;
+}
+.flat-top {
+    float: left;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: -150px;
+    margin-left: 10px;
+    color: #8e8282;
+}
+.resonator {
+    float: left;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: -150px;
+    margin-left: 10px;
+    color: #8e8282;
+}
+.twelve-string {
+    float: left;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: -150px;
+    margin-left: 10px;
+    color: #8e8282;
+}
+.acoustic {
+    float: left;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: -150px;
+    margin-left: 10px;
+    color: #8e8282;
+}
+.electric {
+    float: left;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: -150px;
+    margin-left: 10px;
+    color: #8e8282;
+}
