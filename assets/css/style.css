@@ -228,3 +228,73 @@ fotter {
     margin-left: 10px;
     color: #8e8282;
 }
+
+/* contact */
+
+#comment {
+    text-align: center;
+    margin-left: 135px;
+    margin-right: 135px;
+}
+
+.login-box {
+    position: relative;
+    margin: 5% auto;
+    height: 400px;
+    width: 600px;
+    background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+
+}
+.left-box {
+    position: absolute;
+    margin-top: none;
+    margin-left: none;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+}
+h1 {
+    margin: 0 0 20px 0;
+    font-weight: 300;
+    font-size: 28px;
+
+}
+input[type="text"],
+input[type="password"] {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 4px;
+    width: 220px;
+    height: 32px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #aaa;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+input[type="submit"] {
+    margin-bottom: 28px;
+    width: 120px;
+    height: 32px;
+    background-color: #f44336;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+    background-color: #f44336;
+    transition: 0.2s ease;
+}
+
+}
