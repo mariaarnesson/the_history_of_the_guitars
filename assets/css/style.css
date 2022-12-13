@@ -125,3 +125,24 @@ fotter {
     display: block;
     margin: 150px;
 }
+
+/* gallery */
+
+#gallery {
+    margin-left: 135px;
+    margin-right: 135px;
+}
+.technically {
+    float: right;
+    max-width: 600px;
+    margin-top: 300px;
+    margin-right: 150px;
+    text-align: right;
+}
+.picture_2 {
+    float: right;
+    max-width: 600px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
