@@ -46,11 +46,15 @@ h2 {
 }
 
 #start {
-    float: right;
+    
     height: 500px;
     position: relative;
     overflow: hidden;
     text-align: center;
+}
+.first-pic {
+    float: right;
+
 }
 
 /* first paragraph index */
