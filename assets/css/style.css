@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Lato:wght@300&display=swap');
+
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background-color: #ede4df8f;
+    overflow: scroll;
+    word-wrap: break-word;
+    height: 2700px;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 58px;
+}
+
+nav {
+    padding: 1 rem;
+    background-color: hsl(0, 23%, 95%);
+    text-align: right;
+    box-sizing: border-box;
+}
+
+nav > a {
+    text-decoration: none;
+    color: #3a3a3a;
+    border-left: 3px solid;
+    padding: 5px 10p;
+}
+
+nav > a:hover {
+    color: silver;
+}
