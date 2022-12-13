@@ -71,3 +71,32 @@ h2 {
     margin: 135px;
     display: block;
 }
+
+/* social networks */
+
+fotter {
+    float: bottom;
+    position:absolute;
+    height: 160px;
+    width: 100%;
+    border-top: 1px solid #cdcdcd;
+    display: block;
+    margin: none;
+}
+
+#social-networks {
+    text-align: center;
+    height: 150px;
+    background-color: #3a3a3a;
+}
+#social-networks i {
+    font-size: 160px;
+    margin: 1%;
+    padding: 5%;
+    color: beige;
+}
+#social-networks > div {
+    display: inline;
+    color: #a69c95;
+    text-align: center;
+}
