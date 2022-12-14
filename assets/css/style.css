@@ -344,3 +344,55 @@ input[type="submit"]:focus {
         margin-top: 0px;
         margin-right: 150px;
     }
+
+}
+/* For small screen sizes below 320px width */
+
+@media screen and (max-width: 320px) {
+    body {
+        text-align: none;
+        margin: none;
+        min-height: 100vh;
+}
+nav {
+    text-align: left;
+    align-items: flex-start;
+    padding: none;
+    margin: none;
+    display: grid;
+}
+nav > a {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    border-right: 1 px solid;
+}
+#welcome {
+    margin: 5px;
+}
+#start {
+    height: 150px;
+}
+#box {
+    margin: 30px;
+}
+#quotes {
+    margin: none;
+}
+img {
+    width: 200px;
+    height: 100px;
+}
+
+.pic {
+    margin: none;
+    width: 200px;
+}
+#timeline {
+    margin: 30px;
+    width: 200px;
+}
+#types_of_guitar {
+    margin: 30px;
+}
+
+}
