@@ -400,15 +400,38 @@ nav > a {
     height: 150px;
 }
 .first-pic {
-    margin-right: -10px;
+    margin-right: 10px;
 }
 #box {
-    margin: 20px;
+    margin: 10px;
+    
 }
+.acoustic-guitar {
+    text-align: none;
+    display: block;
+    margin: 0px;
+}
+.electric-guitar{
+    text-align: center;
+    display: block;
+    margin: 0px;
+}
+.classical-guitar {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+.jazz-guitar {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
 #quotes {
     margin: none;
 }
 img {
+    
     width: 200px;
     height: 100px;
     border: 2px solid;
