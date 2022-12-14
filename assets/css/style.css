@@ -400,11 +400,12 @@ nav > a {
     height: 150px;
 }
 .first-pic {
-    margin-right: 10px;
+    margin: 30px;
+    width: 200px;
 }
 #box {
-    margin: 10px;
-    
+    margin: 30px;
+    width: 200px;
 }
 .acoustic-guitar {
     text-align: none;
@@ -430,11 +431,21 @@ nav > a {
 #quotes {
     margin: none;
 }
+.picture_2 {
+    margin: 30px;
+    width: 200px;
+}
+#gallery {
+    margin: 30px;
+    width: 200px;
+}
 img {
     
-    width: 200px;
-    height: 100px;
+    width: 100px;
+    height: 50px;
     border: 2px solid;
+    
+    
 }
 
 .pic {
