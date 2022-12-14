@@ -354,6 +354,7 @@ input[type="submit"]:focus {
         width: 400px;
         height: 200px;
         border: 2px solid;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
     }
     #timeline {
         margin: 50px auto;
@@ -397,6 +398,9 @@ nav > a {
 }
 #start {
     height: 150px;
+}
+.first-pic {
+    margin-right: -10px;
 }
 #box {
     margin: 30px;
@@ -458,7 +462,7 @@ img {
             width: 200px;
         }
         .acustic-guitar {
-        margin: 0px;
+        margin: 40px;
         }
         .electric-guitar {
             margin: 40px;
