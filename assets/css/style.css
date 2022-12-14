@@ -398,6 +398,7 @@ nav > a {
 }
 #start {
     height: 150px;
+    display: flex;
 }
 .first-pic {
     margin: 30px;
