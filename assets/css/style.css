@@ -83,7 +83,7 @@ fotter {
     width: 100%;
     border-top: 1px solid #cdcdcd;
     display: block;
-    
+    margin-top: 100px;
     margin-bottom: none;
     left: 0;
    
@@ -150,13 +150,15 @@ fotter {
     margin-left: 150px;
 }
 
+
+
 /* timeline */
 #timeline {
-    margin: 50px auto;
-    margin-left: 150px;
+    margin-left: 400px;
+    
 }
 
-.circle-conainer {
+.circle-container {
     width: 150px;
     height: 150px;
     padding: 0px;
@@ -200,7 +202,7 @@ fotter {
     color: #8e8282;
 }
 .resonator {
-    float: left;
+    float: right;
     max-width: 600px;
     margin-bottom: 100px;
     margin-top: -150px;
@@ -216,7 +218,7 @@ fotter {
     color: #8e8282;
 }
 .acoustic {
-    float: left;
+    float: right;
     max-width: 600px;
     margin-bottom: 100px;
     margin-top: -150px;
@@ -226,6 +228,7 @@ fotter {
 .electric {
     float: left;
     max-width: 600px;
+    
     margin-bottom: 100px;
     margin-top: -150px;
     margin-left: 10px;
@@ -333,6 +336,7 @@ input[type="submit"]:focus {
     img {
         width: 200px;
         height: 100px;
+        border: 2px solid;
     }
     #timeline {
         margin: 50px auto;
@@ -384,6 +388,7 @@ nav > a {
 img {
     width: 200px;
     height: 100px;
+    border: 2px solid;
 }
 
 .pic {
@@ -448,6 +453,7 @@ img {
         img {
             width: 200px;
             height: 100px;
+            border: 2px solid;
           }
         #gallery {
             display: inline-block;
