@@ -157,6 +157,7 @@ fotter {
 /* timeline */
 #timeline {
     margin-left: 400px;
+    margin-bottom: 50px;
     
 }
 
@@ -309,7 +310,7 @@ input[type="submit"]:focus {
 /* For larger to medium screen size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     body{
-        padding-bottom: 1600px;
+        min-height: 100vh;
 
     }
     #quotes {
@@ -319,6 +320,9 @@ input[type="submit"]:focus {
 
 /* For medium screen sizes from 800px wide and down */
 @media screen and (max-width: 800px) {
+    body {
+        height: 1500px;
+    }
     nav {
         text-align: left;
         align-items: flex-start;
@@ -334,25 +338,38 @@ input[type="submit"]:focus {
     }
     #start {
         height: 100px;
+        position: inherit;
+        overflow: visible;
     }
+    .picture_2 {
+        margin-top: 0px;
+        margin-right: 150px;
+    }
+    #box {
+        margin: 188px;
+        display: block;
+    }
+
     img {
-        width: 200px;
-        height: 100px;
+        width: 400px;
+        height: 200px;
         border: 2px solid;
     }
     #timeline {
         margin: 50px auto;
-        margin-left: 150px;
+        margin-left: 170px;
     }
     #gallery {
         margin-left: 200px;
         margin-right: 135px;
         display: inline-block;
     }
-    .picture_2 {
-        margin-top: 0px;
-        margin-right: 150px;
+    
+    
+    #comment {
+        padding: 50px;
     }
+   
 
 }
 /* For small screen sizes below 320px width */
@@ -437,7 +454,7 @@ img {
             height: 150px;
         }
         #box {
-            margin: 50px;
+            padding: 100px;
             width: 200px;
         }
         #timeline {
@@ -446,7 +463,7 @@ img {
         }
         #comment {
             text-align: none;
-            margin: none;
+            margin: 5px;
         }
         .login-box {
             width: 400px;
