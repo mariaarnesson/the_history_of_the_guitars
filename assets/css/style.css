@@ -47,7 +47,7 @@ h2 {
 }
 
 #start {
-    margin: 50px;
+    
     height: 500px;
     position: relative;
     overflow: hidden;
@@ -56,6 +56,8 @@ h2 {
 }
 .first-pic {
     float: right;
+    margin-right: 200px;
+    margin-left: 50px;
 
 }
 
@@ -83,13 +85,13 @@ fotter {
     width: 100%;
     border-top: 1px solid #cdcdcd;
     display: block;
-    margin-top: 100px;
-    margin-bottom: none;
     left: 0;
    
 }
 
 #social-networks {
+    margin-top: 100px;
+    margin-bottom: 0px;
     text-align: center;
     height: 150px;
     background-color: #3a3a3a;
