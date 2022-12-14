@@ -449,13 +449,25 @@ img {
             width: 100%;
         }
         .first-pic {
-            margin: none;
+            margin-right: 140px;
             width: 250px;
             height: 150px;
         }
         #box {
-            padding: 100px;
+            margin: 155px;
             width: 200px;
+        }
+        .acustic-guitar {
+        margin: 0px;
+        }
+        .electric-guitar {
+            margin: 40px;
+        }
+        .classical-guitar {
+            margin: 40px;
+        }
+        .jazz-guitar {
+            margin: 40px;
         }
         #timeline {
             margin: 30px;
