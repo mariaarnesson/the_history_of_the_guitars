@@ -308,3 +308,39 @@ input[type="submit"]:focus {
         margin-top: -300px;
     }
 }
+
+/* For medium screen sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+    nav {
+        text-align: left;
+        align-items: flex-start;
+        padding: none;
+        margin: none;
+    }
+
+    nav > a {
+        border-bottom: 1px solid;
+        border-top: 1px solid;
+        border-right: 1px solid;
+
+    }
+    #start {
+        height: 100px;
+    }
+    img {
+        width: 200px;
+        height: 100px;
+    }
+    #timeline {
+        margin: 50px auto;
+        margin-left: 150px;
+    }
+    #gallery {
+        margin-left: 200px;
+        margin-right: 135px;
+        display: inline-block;
+    }
+    .picture_2 {
+        margin-top: 0px;
+        margin-right: 150px;
+    }
