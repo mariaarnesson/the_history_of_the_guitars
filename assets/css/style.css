@@ -409,6 +409,9 @@ nav > a {
     width: 200px;
     display: contents;
 }
+#types_of_guitar {
+    margin: 0px;
+}
 .acoustic-guitar {
     text-align: none;
     display: block;
@@ -422,12 +425,12 @@ nav > a {
 .classical-guitar {
     text-align: center;
     display: block;
-    margin: auto;
+    margin: 0px;
 }
 .jazz-guitar {
     text-align: center;
     display: block;
-    margin: auto;
+    margin: 0px;
 }
 
 #quotes {
