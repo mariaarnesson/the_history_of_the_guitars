@@ -454,6 +454,7 @@ img {
 }
 .column {
     margin: 100px;
+    display: contents;
 }
 
 .pic {
@@ -465,7 +466,7 @@ img {
     width: 200px;
 }
 #types_of_guitar {
-    margin: 30px;
+    margin: 0px;
 }
 .login-box {
     width: 270px;
