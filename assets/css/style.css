@@ -36,13 +36,14 @@ nav > a:hover {
 
 h1 {
     font-family: 'Lucida Sans', sans-serif;
-    color: rgba(0, 0, 0, 0.284);
+    color: currentcolor;
     text-align: center;
     text-transform: none;
     letter-spacing: 0px;
 }
 
 h2 {
+    color:currentcolor;
     font-family: Caveat, sans-serif;
     text-align: center;
     letter-spacing: 0px;
@@ -58,7 +59,7 @@ h2 {
     width: 100%;
 }
 .first-pic {
-    float: right;
+    float: none;
     margin-right: 200px;
     margin-left: 50px;
 
@@ -316,7 +317,12 @@ input[type="submit"]:focus {
     body{
         padding-bottom: 1600px;
       }
-     
+    .first-pic {
+        float: left;
+    } 
+    #box {
+        margin: 300px;  
+    }
     #quotes {
         margin-top: -300px;
     }

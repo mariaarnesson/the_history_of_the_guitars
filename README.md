@@ -20,6 +20,7 @@ On my website you find the history of a very popular musical instrument, which i
 ## Testing 
 
 ## Validator Testing
+
 - HTML
 No errors were returned when passing through the official W3C validator
 
@@ -27,6 +28,9 @@ No errors were returned when passing through the official W3C validator
 No errors were found when passing through the official (Jigsaw) validator
 
 ![testing](assets/image/testing.png)
+![type_testing](assets/image/type_testing.png)
+![timeline_testing](assets/image/timeline_testing.png)
+![contact_testing](assets/image/contact_testing.png)
 
 ## Deployment
 ## Credits
