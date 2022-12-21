@@ -36,13 +36,13 @@ h1 {
     color: rgba(0, 0, 0, 0.284);
     text-align: center;
     text-transform: none;
-    letter-spacing: 12px;
+    letter-spacing: 0px;
 }
 
 h2 {
     font-family: Caveat, sans-serif;
     text-align: center;
-    letter-spacing: 4px;
+    letter-spacing: 0px;
 
 }
 
@@ -375,7 +375,7 @@ input[type="submit"]:focus {
 }
 /* For small screen sizes below 320px width */
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) {
     body {
         text-align: none;
         margin: none;
@@ -401,8 +401,12 @@ nav > a {
     display: flex;
 }
 .first-pic {
-    margin: 30px;
+    margin-left: 50px;
     width: 200px;
+}
+.column {
+    margin-left: -102px;
+    margin-top: -95px;
 }
 #box {
     margin: 30px;
@@ -452,10 +456,7 @@ img {
     
     
 }
-.column {
-    margin: 100px;
-    display: contents;
-}
+
 
 .pic {
     margin: none;
@@ -506,25 +507,25 @@ img {
             width: 100%;
         }
         .first-pic {
-            margin-right: 140px;
+            margin-right: 40px;
             width: 250px;
             height: 150px;
         }
         #box {
-            margin: 155px;
+            margin: 55px;
             width: 200px;
         }
         .acustic-guitar {
-        margin: 40px;
+        margin: 0px;
         }
         .electric-guitar {
-            margin: 40px;
+            margin: 0px;
         }
         .classical-guitar {
-            margin: 40px;
+            margin: 0px;
         }
         .jazz-guitar {
-            margin: 40px;
+            margin: 0px;
         }
         #timeline {
             margin: 30px;
@@ -535,7 +536,7 @@ img {
             margin: 5px;
         }
         .login-box {
-            width: 400px;
+            width: 300px;
             height: 300px;
         }
         img {
