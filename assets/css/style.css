@@ -13,18 +13,21 @@ body {
 }
 
 nav {
-    
-    background-color: hsl(0, 23%, 95%);
-    text-align: right;
-    box-sizing: border-box;
-    padding: 1rem;
+	padding: 1rem;
+  background-color:hsl(0, 23%, 95%);
+  text-align: right;
+  box-sizing: border-box;
+  
 }
 
 nav > a {
-    text-decoration: none;
-    color: #3a3a3a;
-    border-left: 1px solid;
-    padding: 5px 10px;
+	text-decoration: none;
+	color: #3a3a3a;
+	
+  
+  border-left: 1px solid;
+  padding: 5px 10px;
+  
 }
 
 nav > a:hover {
@@ -309,10 +312,11 @@ input[type="submit"]:focus {
 /* Media queries */
 /* For larger to medium screen size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+   
     body{
-        min-height: 100vh;
-
-    }
+        padding-bottom: 1600px;
+      }
+     
     #quotes {
         margin-top: -300px;
     }
@@ -324,7 +328,7 @@ input[type="submit"]:focus {
         height: 1500px;
     }
     nav {
-        text-align: left;
+        text-align: center;
         align-items: flex-start;
         padding: none;
         margin: none;
@@ -342,8 +346,10 @@ input[type="submit"]:focus {
         overflow: visible;
     }
     .picture_2 {
+        float: none;
         margin-top: 0px;
         margin-right: 150px;
+        
     }
     #box {
         margin: 188px;
@@ -357,8 +363,8 @@ input[type="submit"]:focus {
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
     }
     #timeline {
-        margin: 50px auto;
-        margin-left: 170px;
+        margin-bottom: 50px;
+        margin-left: 160px;
     }
     #gallery {
         margin-left: 200px;
@@ -375,7 +381,7 @@ input[type="submit"]:focus {
 }
 /* For small screen sizes below 320px width */
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
     body {
         text-align: none;
         margin: none;
@@ -405,8 +411,8 @@ nav > a {
     width: 200px;
 }
 .column {
-    margin-left: -102px;
-    margin-top: -95px;
+        margin-left: 53px;
+        margin-top: 53px;
 }
 #box {
     margin: 30px;
@@ -484,6 +490,7 @@ img {
 
 @media screen and (max-width: 600px) {
     body {
+        padding-bottom: inherit;
         margin: 30px;
     }
     nav {
@@ -500,6 +507,7 @@ img {
         border-right: 1px solid;
       }
       #start {
+        width: fit-content;
         height: 150px;
       }
         #welcome {
@@ -507,15 +515,20 @@ img {
             width: 100%;
         }
         .first-pic {
+            float: none;
             margin-right: 40px;
             width: 250px;
             height: 150px;
         }
+       
         #box {
             margin: 55px;
             width: 200px;
         }
-        .acustic-guitar {
+        #types_of_guitar {
+            margin: 0px;
+        }
+        .acoustic-guitar {
         margin: 0px;
         }
         .electric-guitar {
@@ -528,7 +541,8 @@ img {
             margin: 0px;
         }
         #timeline {
-            margin: 30px;
+            
+            margin: 50px;
             width: 200px;
         }
         #comment {
@@ -538,6 +552,10 @@ img {
         .login-box {
             width: 300px;
             height: 300px;
+        }
+        .picture_2 {
+            margin-left: 52px;
+            float: none;
         }
         img {
             width: 200px;
