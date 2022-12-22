@@ -83,7 +83,7 @@ h2 {
 /* social networks */
 
 fotter {
-    float: bottom;
+    float: inline-end;
     position: absolute;
     height: 160px;
     width: 100%;
@@ -261,8 +261,8 @@ fotter {
 }
 .left-box {
     position: absolute;
-    margin-top: none;
-    margin-left: none;
+    margin-top: 0;
+    margin-left: 0;
     box-sizing: border-box;
     padding: 40px;
     width: 300px;
@@ -336,8 +336,8 @@ input[type="submit"]:focus {
     nav {
         text-align: center;
         align-items: flex-start;
-        padding: none;
-        margin: none;
+        padding: 0;
+        margin: 0;
     }
 
     nav > a {
@@ -389,21 +389,21 @@ input[type="submit"]:focus {
 
 @media screen and (max-width: 320px) {
     body {
-        text-align: none;
-        margin: none;
+        text-align: right;
+        margin: 0;
         min-height: 100vh;
 }
 nav {
     text-align: left;
     align-items: flex-start;
-    padding: none;
-    margin: none;
+    padding: 0;
+    margin: 0;
     display: grid;
 }
 nav > a {
     border-bottom: 1px solid;
     border-top: 1px solid;
-    border-right: 1 px solid;
+    border-right: 1px solid;
 }
 #welcome {
     margin: 5px;
@@ -429,7 +429,7 @@ nav > a {
     margin: 0px;
 }
 .acoustic-guitar {
-    text-align: none;
+    text-align: right;
     display: block;
     margin: 0px;
 }
@@ -450,7 +450,7 @@ nav > a {
 }
 
 #quotes {
-    margin: none;
+    margin: 0;
 }
 .picture_2 {
     margin: 30px;
@@ -471,7 +471,7 @@ img {
 
 
 .pic {
-    margin: none;
+    margin: 0;
     width: 200px;
 }
 #timeline {
@@ -502,8 +502,8 @@ img {
     nav {
         text-align:left;
         align-items: flex-start;
-        padding: none;
-        margin: none;
+        padding: 0;
+        margin: 0;
         display: grid;
         
       }
@@ -552,7 +552,7 @@ img {
             width: 200px;
         }
         #comment {
-            text-align: none;
+            text-align: right;
             margin: 5px;
         }
         .login-box {
