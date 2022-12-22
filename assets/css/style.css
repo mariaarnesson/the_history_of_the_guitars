@@ -410,11 +410,12 @@ nav > a {
     margin: 5px;
 }
 #start {
+    margin-left: -40px;
     height: 150px;
     display: flex;
 }
 .first-pic {
-    margin-left: 50px;
+    margin-left: 0px;
     width: 200px;
 }
 .column {
