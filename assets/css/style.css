@@ -319,9 +319,10 @@ input[type="submit"]:focus {
       }
     .first-pic {
         float: left;
+        margin-left: 80px;
     } 
     #box {
-        margin: 300px;  
+        margin-left: 340px; 
     }
     #quotes {
         margin-top: -300px;
