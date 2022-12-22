@@ -36,7 +36,7 @@ nav > a:hover {
 
 h1 {
     font-family: 'Lucida Sans', sans-serif;
-    color: currentcolor;
+    color:rgba(0, 0, 0, 0.284);
     text-align: center;
     text-transform: none;
     letter-spacing: 0px;
@@ -61,7 +61,7 @@ h2 {
 .first-pic {
     float: none;
     margin-right: 200px;
-    margin-left: 160px;
+    margin-left: 80px;
 
 }
 
@@ -319,7 +319,7 @@ input[type="submit"]:focus {
       }
     .first-pic {
         float: left;
-        margin-left: 80px;
+        margin-left: 200px;
     } 
     #box {
         margin-left: 340px; 
