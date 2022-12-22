@@ -61,7 +61,7 @@ h2 {
 .first-pic {
     float: none;
     margin-right: 200px;
-    margin-left: 50px;
+    margin-left: 160px;
 
 }
 
@@ -429,7 +429,7 @@ nav > a {
     margin: 0px;
 }
 .acoustic-guitar {
-    text-align: right;
+    text-align: justify;
     display: block;
     margin: 0px;
 }
@@ -523,6 +523,7 @@ img {
         .first-pic {
             float: none;
             margin-right: 40px;
+            margin-left: 35px;
             width: 250px;
             height: 150px;
         }
@@ -552,7 +553,7 @@ img {
             width: 200px;
         }
         #comment {
-            text-align: right;
+            text-align: justify;
             margin: 5px;
         }
         .login-box {
