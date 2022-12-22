@@ -1,4 +1,10 @@
+
+
+
 # Guitar's history
+
+
+[View the live project here](https://mariaarnesson.github.io/the_history_of_the_guitars/)
 
 On my website you find the history of a very popular musical instrument, which is the guitar. I described where the guitar comes from and in which countries it is used, and also what different types of guitars exist. There is a timeline about the entire history of guitars too.
 
@@ -27,6 +33,10 @@ No errors were returned when passing through the official W3C validator
 - CSS
 No errors were found when passing through the official (Jigsaw) validator
 ![validator](assets/image/validator.png)
+![validator_css](assets/image/validator_css.png)
+
+## Testing Lighthouse
+
 ![testing](assets/image/testing.png)
 ![type_testing](assets/image/type_testing.png)
 ![timeline_testing](assets/image/timeline_testing.png)

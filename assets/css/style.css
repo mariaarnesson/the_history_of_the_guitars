@@ -85,10 +85,10 @@ fotter {
 }
 
 #social-networks {
-                 margin-top: 100px;
+                 margin-top: 200px;
                  margin-bottom: 0px;
                  text-align: center;
-                 height: 150px;
+                 height: 130px;
                  background-color: #3a3a3a;
 }
 #social-networks i {
@@ -100,7 +100,7 @@ fotter {
 #social-networks > div {
                       display: inline;
                       color: #a69c95;
-                      text-align: center;
+                      text-align: center; 
 }
 /* types of guitars */
 
