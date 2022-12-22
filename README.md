@@ -26,7 +26,7 @@ No errors were returned when passing through the official W3C validator
 
 - CSS
 No errors were found when passing through the official (Jigsaw) validator
-
+![validator](assets/image/validator.png)
 ![testing](assets/image/testing.png)
 ![type_testing](assets/image/type_testing.png)
 ![timeline_testing](assets/image/timeline_testing.png)

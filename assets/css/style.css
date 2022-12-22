@@ -6,7 +6,6 @@ body {
     background-color: #ede4df8f;
     overflow: scroll;
     word-wrap: break-word;
-    
     min-height: 100vh;
     position: relative;
     padding-bottom: 58px;
@@ -14,24 +13,20 @@ body {
 
 nav {
 	padding: 1rem;
-  background-color:hsl(0, 23%, 95%);
-  text-align: right;
-  box-sizing: border-box;
-  
+    background-color:hsl(0, 23%, 95%);
+    text-align: right;
+    box-sizing: border-box;
 }
 
 nav > a {
-	text-decoration: none;
-	color: #3a3a3a;
-	
-  
-  border-left: 1px solid;
-  padding: 5px 10px;
-  
+	    text-decoration: none;
+	    color: #3a3a3a;
+	    border-left: 1px solid;
+        padding: 5px 10px;
 }
 
 nav > a:hover {
-    color: silver;
+              color: silver;
 }
 
 h1 {
@@ -47,22 +42,19 @@ h2 {
     font-family: Caveat, sans-serif;
     text-align: center;
     letter-spacing: 0px;
-
 }
 
 #start {
-    
-    height: 500px;
-    position: relative;
-    overflow: hidden;
-    text-align: center;
-    width: 100%;
+       height: 500px;
+       position: relative;
+       overflow: hidden;
+       text-align: center;
+       width: 100%;
 }
 .first-pic {
-    float: none;
-    margin-right: 200px;
-    margin-left: 80px;
-
+           float: none;
+           margin-right: 200px;
+           margin-left: 80px;
 }
 
 /* first paragraph index */
@@ -83,231 +75,224 @@ h2 {
 /* social networks */
 
 fotter {
-    float: inline-end;
-    position: absolute;
-    height: 160px;
-    width: 100%;
-    border-top: 1px solid #cdcdcd;
-    display: block;
-    left: 0;
-   
+       float: inline-end;
+       position: absolute;
+       height: 160px;
+       width: 100%;
+       border-top: 1px solid #cdcdcd;
+       display: block;
+       left: 0; 
 }
 
 #social-networks {
-    margin-top: 100px;
-    margin-bottom: 0px;
-    text-align: center;
-    height: 150px;
-    background-color: #3a3a3a;
+                 margin-top: 100px;
+                 margin-bottom: 0px;
+                 text-align: center;
+                 height: 150px;
+                 background-color: #3a3a3a;
 }
 #social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: beige;
+                   font-size: 160%;
+                   margin: 1%;
+                   padding: 5%;
+                   color: beige;
 }
 #social-networks > div {
-    display: inline;
-    color: #a69c95;
-    text-align: center;
+                      display: inline;
+                      color: #a69c95;
+                      text-align: center;
 }
 /* types of guitars */
 
 .acoustic-guitar {
-    text-align: center;
-    display: block;
-    margin: 150px;
+                  text-align: center;
+                  display: block;
+                  margin: 150px;
 }
 .electric-guitar {
-    text-align: center;
-    display: block;
-    margin: 150px;
-
+                 text-align: center;
+                 display: block;
+                 margin: 150px;
 }
 .classical-guitar {
-    text-align: center;
-    display: block;
-    margin: 150px;
+                  text-align: center;
+                  display: block;
+                  margin: 150px;
 }
 .jazz-guitar {
-    text-align: center;
-    display: block;
-    margin: 150px;
+             text-align: center;
+             display: block;
+             margin: 150px;
 }
 
 /* gallery */
 
 #gallery {
-    margin-left: 135px;
-    margin-right: 135px;
+         margin-left: 135px;
+         margin-right: 135px;
 }
 .technically {
-    float: right;
-    max-width: 600px;
-    margin-top: 300px;
-    margin-right: 150px;
-    text-align: right;
+             float: right;
+             max-width: 600px;
+             margin-top: 300px;
+             margin-right: 150px;
+             text-align: right;
 }
 .picture_2 {
-    float: right;
-    max-width: 600px;
-    margin-bottom: 100px;
-    margin-top: 100px;
-    margin-left: 150px;
+           float: right;
+           max-width: 600px;
+           margin-bottom: 100px;
+           margin-top: 100px;
+           margin-left: 150px;
 }
 
 
 
 /* timeline */
 #timeline {
-    margin-left: 400px;
-    margin-bottom: 50px;
-    
+          margin-left: 400px;
+          margin-bottom: 50px; 
 }
 
 .circle-container {
-    width: 150px;
-    height: 150px;
-    padding: 0px;
-    border-style: solid;
-    border-color: rgb(252, 248, 248);
-    border-width: 1px;
-    border-radius: 100%;
-    margin: 0 auto;
+                 width: 150px;
+                 height: 150px;
+                 padding: 0px;
+                 border-style: solid;
+                 border-color: rgb(252, 248, 248);
+                 border-width: 1px;
+                 border-radius: 100%;
+                 margin: 0 auto;
 }
 
 .circle-container h2 {
-    text-align: center;
-    margin-bottom: -30px;
-    margin-right: 0px;
+                    text-align: center;
+                    margin-bottom: -30px;
+                    margin-right: 0px;
 }
 
 .circle-cover {
-    background-color: aquamarine;
-    height: 110%;
-    border-radius: 50%;
+              background-color: aquamarine;
+              height: 110%;
+              border-radius: 50%;
 }
 .circle-cover2 {
-    background-color: #117d3e8f;
-    height: 110%;
-    border-radius: 50%;
+               background-color: #117d3e8f;
+               height: 110%;
+               border-radius: 50%;
 }
 .classical {
-    float: right;
-    max-width: 600px;
-    margin-bottom: 100px;
-    margin-top: -150px;
-    margin-left: 0px;
-    color: #8e8282;
+           float: right;
+           max-width: 600px;
+           margin-bottom: 100px;
+           margin-top: -150px;
+           margin-left: 0px;
+           color: #8e8282;
 }
 .flat-top {
-    float: left;
-    max-width: 600px;
-    margin-bottom: 100px;
-    margin-top: -150px;
-    margin-left: 10px;
-    color: #8e8282;
+          float: left;
+          max-width: 600px;
+          margin-bottom: 100px;
+          margin-top: -150px;
+          margin-left: 10px;
+          color: #8e8282;
 }
 .resonator {
-    float: right;
-    max-width: 600px;
-    margin-bottom: 100px;
-    margin-top: -150px;
-    margin-left: 10px;
-    color: #8e8282;
+          float: right;
+          max-width: 600px;
+          margin-bottom: 100px;
+          margin-top: -150px;
+          margin-left: 10px;
+          color: #8e8282;
 }
 .twelve-string {
-    float: left;
-    max-width: 600px;
-    margin-bottom: 100px;
-    margin-top: -150px;
-    margin-left: 10px;
-    color: #8e8282;
+              float: left;
+              max-width: 600px;
+              margin-bottom: 100px;
+              margin-top: -150px;
+              margin-left: 10px;
+              color: #8e8282;
 }
 .acoustic {
-    float: right;
-    max-width: 600px;
-    margin-bottom: 100px;
-    margin-top: -150px;
-    margin-left: 10px;
-    color: #8e8282;
+          float: right;
+          max-width: 600px;
+          margin-bottom: 100px;
+          margin-top: -150px;
+          margin-left: 10px;
+          color: #8e8282;
 }
 .electric {
-    float: left;
-    max-width: 600px;
-    
-    margin-bottom: 100px;
-    margin-top: -150px;
-    margin-left: 10px;
-    color: #8e8282;
+         float: left;
+         max-width: 600px;
+         margin-bottom: 100px;
+         margin-top: -150px;
+         margin-left: 10px;
+         color: #8e8282;
 }
 
 /* contact */
 
 #comment {
-    text-align: center;
-    margin-left: 135px;
-    margin-right: 135px;
+         text-align: center;
+         margin-left: 135px;
+         margin-right: 135px;
 }
 
 .login-box {
-    position: relative;
-    margin: 5% auto;
-    height: 400px;
-    width: 600px;
-    background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
-
+           position: relative;
+           margin: 5% auto;
+           height: 400px;
+           width: 600px;
+           background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
+           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
 }
 .left-box {
-    position: absolute;
-    margin-top: 0;
-    margin-left: 0;
-    box-sizing: border-box;
-    padding: 40px;
-    width: 300px;
-    height: 400px;
+          position: absolute;
+          margin-top: 0;
+          margin-left: 0;
+          box-sizing: border-box;
+          padding: 40px;
+          width: 300px;
+          height: 400px;
 }
 h1 {
     margin: 0 0 20px 0;
     font-weight: 300;
     font-size: 28px;
-
 }
 input[type="text"],
 input[type="password"] {
-    display: block;
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    padding: 4px;
-    width: 220px;
-    height: 32px;
-    border: none;
-    outline: none;
-    border-bottom: 1px solid #aaa;
-    font-family: sans-serif;
-    font-weight: 400;
-    font-size: 15px;
+                       display: block;
+                       box-sizing: border-box;
+                       margin-bottom: 20px;
+                       padding: 4px;
+                       width: 220px;
+                       height: 32px;
+                       border: none;
+                       outline: none;
+                       border-bottom: 1px solid #aaa;
+                       font-family: sans-serif;
+                       font-weight: 400;
+                       font-size: 15px;
 }
 
 input[type="submit"] {
-    margin-bottom: 28px;
-    width: 120px;
-    height: 32px;
-    background-color: #f44336;
-    border: none;
-    border-radius: 2px;
-    color: #fff;
-    font-family: sans-serif;
-    font-weight: 500;
-    text-transform: uppercase;
-    cursor: pointer;
-
+                     margin-bottom: 28px;
+                     width: 120px;
+                     height: 32px;
+                     background-color: #f44336;
+                     border: none;
+                     border-radius: 2px;
+                     color: #fff;
+                     font-family: sans-serif;
+                     font-weight: 500;
+                     text-transform: uppercase;
+                     cursor: pointer;
 }
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-    background-color: #f44336;
-    transition: 0.2s ease;
+                           background-color: #f44336;
+                           transition: 0.2s ease;
 }
 
 /* Media queries */
@@ -319,10 +304,10 @@ input[type="submit"]:focus {
       }
     
     #box {
-        margin-left: 340px; 
+         margin-left: 340px; 
     }
     #quotes {
-        margin-top: -300px;
+            margin-top: -300px;
     }
 }
 
@@ -337,29 +322,25 @@ input[type="submit"]:focus {
         padding: 0;
         margin: 0;
     }
-
     nav > a {
-        border-bottom: 1px solid;
-        border-top: 1px solid;
-        border-right: 1px solid;
-
+             border-bottom: 1px solid;
+             border-top: 1px solid;
+             border-right: 1px solid;
     }
     #start {
-        height: 100px;
-        position: inherit;
-        overflow: visible;
+            height: 100px;
+            position: inherit;
+            overflow: visible;
     }
     .picture_2 {
-        float: none;
-        margin-top: 0px;
-        margin-right: 150px;
-        
+              float: none;
+              margin-top: 0px;
+              margin-right: 150px; 
     }
     #box {
         margin: 188px;
         display: block;
     }
-
     img {
         width: 400px;
         height: 200px;
@@ -367,130 +348,122 @@ input[type="submit"]:focus {
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
     }
     #timeline {
-        margin-bottom: 50px;
-        margin-left: 160px;
+              margin-bottom: 50px;
+              margin-left: 160px;
     }
     #gallery {
-        margin-left: 200px;
-        margin-right: 135px;
-        display: inline-block;
+             margin-left: 200px;
+             margin-right: 135px;
+             display: inline-block;
     }
     
     
     #comment {
-        padding: 50px;
+             padding: 50px;
     }
-   
-
 }
 /* For small screen sizes below 320px width */
 
 @media screen and (max-width: 320px) {
     body {
-        text-align: right;
+         text-align: right;
+         margin: 0;
+         min-height: 100vh;
+    }
+    nav {
+        text-align: left;
+        align-items: flex-start;
+        padding: 0;
         margin: 0;
-        min-height: 100vh;
-}
-nav {
-    text-align: left;
-    align-items: flex-start;
-    padding: 0;
-    margin: 0;
-    display: grid;
-}
-nav > a {
-    border-bottom: 1px solid;
-    border-top: 1px solid;
-    border-right: 1px solid;
-}
-#welcome {
-    margin: 5px;
-}
-#start {
-    margin-left: -40px;
-    height: 150px;
-    display: flex;
-}
-.first-pic {
-    margin-left: 0px;
-    width: 200px;
-}
-.column {
+        display: grid;
+    }  
+    nav > a {
+        border-bottom: 1px solid;
+        border-top: 1px solid;
+        border-right: 1px solid;
+    }
+    #welcome {
+         margin: 5px;
+    }
+    #start {
+       margin-left: -40px;
+       height: 150px;
+       display: flex;
+    }
+    .first-pic {
+           margin-left: 0px;
+           width: 200px;
+    }
+    .column {
         margin-left: 53px;
         margin-top: 53px;
-}
-#box {
-    margin: 30px;
-    width: 200px;
-    display: contents;
-}
-#types_of_guitar {
-    margin: 0px;
-}
-.acoustic-guitar {
-    text-align: justify;
-    display: block;
-    margin: 0px;
-}
-.electric-guitar{
-    text-align: center;
-    display: block;
-    margin: 0px;
-}
-.classical-guitar {
-    text-align: center;
-    display: block;
-    margin: 0px;
-}
-.jazz-guitar {
-    text-align: center;
-    display: block;
-    margin: 0px;
-}
-
-#quotes {
-    margin: 0;
-}
-.picture_2 {
-    margin: 30px;
-    width: 200px;
-}
-#gallery {
-    margin: 30px;
-    width: 200px;
-}
-img {
-    
-    width: 50px;
-    height: 25px;
-    border: 2px solid;
-    
-    
-}
-
-
-.pic {
-    margin: 0;
-    width: 200px;
-}
-#timeline {
-    margin: 30px;
-    width: 200px;
-}
-#types_of_guitar {
-    margin: 0px;
-}
-#comment {
-    margin: 0px;
-}
-.login-box {
-    width: 270px;
-    height: 300px;
-}
-#social-networks i {
-    font-size: 100%;
-    height: 50px;
-}
+    }
+    #box {
+         margin: 30px;
+         width: 200px;
+         display: contents;
+    }
+    #types_of_guitar {
+                 margin: 0px;
+    }
+    .acoustic-guitar {
+                text-align: justify;
+                display: block;
+                margin: 0px;
+    }
+    .electric-guitar{
+                text-align: center;
+                display: block;
+                margin: 0px;
+    }
+    .classical-guitar {
+                 text-align: center;
+                 display: block;
+                 margin: 0px;
+    }
+    .jazz-guitar {
+            text-align: center;
+            display: block;
+            margin: 0px;
+    }
+    #quotes {
+       margin: 0;
+    }
+    .picture_2 {
+          margin: 30px;
+          width: 200px;
+    }
+    #gallery {
+        margin: 30px;
+        width: 200px;
+    }
+    img {
+       width: 50px;
+       height: 25px;
+       border: 2px solid; 
+   }
+   .pic {
+       margin: 0;
+       width: 200px;
+   }
+   #timeline {
+         margin: 30px;
+         width: 200px;
+   }
+   #types_of_guitar {
+               margin: 0px;
+   }
+    #comment {
+         margin: 0px;
+    }
+    .login-box {
+          width: 270px;
+          height: 300px;
+    }
+    #social-networks i {
+                 font-size: 100%;
+                 height: 50px;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -507,19 +480,19 @@ img {
         
       }
       nav > a {
-        border-bottom: 1px solid;
-        border-top: 1px solid;
-        border-right: 1px solid;
+             border-bottom: 1px solid;
+             border-top: 1px solid;
+             border-right: 1px solid;
       }
       #start {
-        width: fit-content;
-        height: 150px;
+             width: fit-content;
+             height: 150px;
       }
-        #welcome {
+      #welcome {
             margin: 0px;
             width: 100%;
         }
-        .first-pic {
+     .first-pic {
             float: none;
             margin-right: 40px;
             margin-left: 35px;
@@ -527,54 +500,52 @@ img {
             height: 150px;
         }
        
-        #box {
-            margin: 55px;
-            width: 200px;
-        }
-        #types_of_guitar {
-            margin: 0px;
-        }
-        .acoustic-guitar {
-        margin: 0px;
-        }
-        .electric-guitar {
-            margin: 0px;
-        }
-        .classical-guitar {
-            margin: 0px;
-        }
-        .jazz-guitar {
-            margin: 0px;
-        }
-        #timeline {
-            
-            margin: 50px;
-            width: 200px;
-        }
-        #comment {
+    #box {
+         margin: 55px;
+         width: 200px;
+    }
+    #types_of_guitar {
+                     margin: 0px;
+    }
+    .acoustic-guitar {
+                    margin: 0px;
+    }
+    .electric-guitar {
+                    margin: 0px;
+    }
+    .classical-guitar {
+                   margin: 0px;
+    }
+    .jazz-guitar {
+                  margin: 0px;
+    }
+    #timeline {
+              margin: 50px;
+              width: 200px;
+    }
+    #comment {
             text-align: justify;
             margin: 5px;
         }
-        .login-box {
-            width: 300px;
-            height: 300px;
-        }
-        .picture_2 {
+    .login-box {
+               width: 300px;
+               height: 300px;
+    }
+    .picture_2 {
             margin-left: 52px;
             float: none;
-        }
-        img {
-            width: 200px;
-            height: 100px;
-            border: 2px solid;
-          }
-        #gallery {
+    }
+    img {
+        width: 200px;
+        height: 100px;
+        border: 2px solid;
+    }
+    #gallery {
             display: inline-block;
             margin: 50px;
-        }  
-        .technically {
+    }  
+    .technically {
             margin-top: 300px;
             margin-right: 60px;
-        }
-
-      }
+     }
+}
