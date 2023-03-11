@@ -52,10 +52,21 @@ No errors were found when passing through the official (Jigsaw) validator
 ![colour_contact](assets/image/colour_contact.png)
 
 ## Wireframes
+
+
 - Main Page Wireframes
+ - Desktop:
 ![home_page_desktop](assets/image/wireframes_home_page_detsktop.png)
+ - Iphone:
 ![home_page_iphone](assets/image/wireframes_home_page_iphone.png)
+ - Ipad:
 ![home_page_ipad](assets/image/wireframes_home_page_ipad.png)
+
+
+- Types of guitars Page Wireframes
+![types_desktop](assets/image/wireframes_types_desktop.png)
+![types_iphone](assets/image/wireframes_types_iphone.png)
+![types_ipad](assets/image/wireframes_types_ipad.png)
 ## Deployment
 ## Credits
 ### Information about the guitars was taken from:
