@@ -50,6 +50,12 @@ No errors were found when passing through the official (Jigsaw) validator
 ![colour_gallery](assets/image/colour_gallery.png)
 ![colour_timeline](assets/image/colour_timeline.png)
 ![colour_contact](assets/image/colour_contact.png)
+
+## Wireframes
+- Main Page Wireframes
+![home_page_desktop](assets/image/wireframes_home_page_detsktop.png)
+![home_page_iphone](assets/image/wireframes_home_page_iphone.png)
+![home_page_ipad](assets/image/wireframes_home_page_ipad.png)
 ## Deployment
 ## Credits
 ### Information about the guitars was taken from:
