@@ -42,6 +42,14 @@ No errors were found when passing through the official (Jigsaw) validator
 ![timeline_testing](assets/image/timeline_testing.png)
 ![contact_testing](assets/image/contact_testing.png)
 
+# Designe
+## Colour Adobe
+
+![colour_home_page](assets/image/colour_home_page.png)
+![colour_guitar](assets/image/colour_guitar.png)
+![colour_gallery](assets/image/colour_gallery.png)
+![colour_timeline](assets/image/colour_timeline.png)
+![colour_contact](assets/image/colour_contact.png)
 ## Deployment
 ## Credits
 ### Information about the guitars was taken from:
