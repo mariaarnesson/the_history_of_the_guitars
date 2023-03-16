@@ -3,6 +3,8 @@
 
 # Guitar's history
 
+# User Experience (UX)
+
 
 [View the live project here](https://mariaarnesson.github.io/the_history_of_the_guitars/)
 
@@ -23,7 +25,7 @@ On my website you find the history of a very popular musical instrument, which i
 ![timeline](assets/image/timeline.png)
 ![contact](assets/image/contact.png)
 
-## Testing 
+# Testing 
 
 ## Validator Testing
 
@@ -34,6 +36,158 @@ No errors were returned when passing through the official W3C validator
 No errors were found when passing through the official (Jigsaw) validator
 ![validator](assets/image/validator.png)
 ![validator_css](assets/image/validator_css.png)
+
+
+## User stories testing:
+
+- Home > Types of guitars > Gallery > Timeline > Contact
+
+(thank you side)
+
+## Testing User Experience (UX) stories 
+
+- As a new user I want to find information and learn more about the history.
+    - Information about the history of guitars is easily to found on the main page and also on the Types of guitars page. 
+    - Additional information can be found by contacting the website author on the contact page.
+- As a new user I want to easily understand the main purpose of the site.
+    - The main purpose of the site is visible on the first page where you can see a photo of a man with a guitar and text about guitars below. 
+    - No matter what page the new visitor lands on, they can easily find and use the navigation bar.
+- As a new user I want to be able to easily navigate the entire site to find content.
+    - Navigating the entire site to find content is possible by navigating to the bottom.
+- As a new user I want to be able to easily navigate to and see what types of guitars are available. 
+    - The ability to easily navigate and check what types of guitars are available is possible by pressing the types of guitar button
+- As a new user I want to be able to see images in the gallery. 
+    - the ability to view photos in the gallery is available by pressing the gallery button.
+- As a new user I want to be able to fill out the form to receive newsletters on my e-mail. 
+    - filling out the form to receive newsletters to my e-mail is possible by pressing the contact button.
+- As a returning user I want to be able to access and view the entire page quickly and easily. 
+    - quick and easy access to the entire site and browsing it is available on all pages and using the navigation bar can be done in a quick way.
+- As a returning user I want to be able to quickly and easily check what kinds of guitars exists. 
+    -  - The ability to easily navigate and check what types of guitars are available is possible by pressing the types of guitar button
+- As a returning user I want to be able to contact the organization to give feedback or ask questions. 
+    - the possibility of contacting the organization in order to provide feedback or ask questions is possible by pressing the contact button and contacting by phone using the number provided on this page.
+- As a returning user I want to check information about the history and date in case I have forgotten it. 
+    - information about the history and date can be checked by pressing the timaline button and searching in the text provided on this page.
+
+
+### Manual (logical) testing of all elements and functionality on every page. 
+
+#### Home Page: 
+1. Navigation bar: 
+    -
+    -
+    -
+    -
+    -
+    -
+2. Hero image / video: 
+    -
+    -
+    -
+    -
+    -
+3. Compelling copy section: 
+    -
+    -
+    -
+    -
+    -
+4. Testimonials: 
+    -
+    -
+5. Call to action button: 
+    -
+    -
+6. Footer:  
+    -
+    -
+    -
+7.  Review all functionality and responsiveness on my mobile phone and tablet.
+#### Types of guitars Page:
+1. Navigation bar: 
+    -
+    -
+    -
+    -
+    -
+    -
+2. Hero image / video: 
+    -
+    -
+    -
+    -
+    -
+3. Compelling copy section: 
+    -
+    -
+    -
+    -
+    -
+4. Testimonials: 
+    -
+    -
+5. Call to action button: 
+    -
+    -
+6. Footer:  
+    -
+    -
+    -
+
+#### Timaline Page: 
+1. Navigation bar:  
+    -
+    -
+2. Hero image: 
+    -
+    -
+3. Page images:  
+    -
+    -
+4. Page content:  
+    -
+    -
+5. Call to action buttons:
+    -
+    -
+6. Footer:
+    -
+    -
+7. Review all functionality and responsiveness on my mobile phone and tablet. 
+    -
+
+#### Gallery Page: 
+
+1. Navigation bar:  
+    -
+2. Hero image: 
+    -
+3. Gallery: 
+    -
+4. Call to action buttons:  
+    -
+5. Footer: 
+    -
+    -
+#### Contact Page: 
+
+1. Navigation bar:  
+    -
+2. Hero image: 
+    -
+3. Contact form:  
+    -
+4. Footer: 
+    -
+5. Review all functionality and responsiveness on my mobile phone and tablet.
+    -
+
+## Further testing: 
+1. Asked fellow students, friends and family to look at the site on their devices and report any issues they find. _margins were adjusted for navigation bar after feedback that "request quote" button was too close to nav menu on some devices_ 
+
+
+
+
 
 ## Testing Lighthouse
 
@@ -64,8 +218,11 @@ No errors were found when passing through the official (Jigsaw) validator
 
 
 - Types of guitars Page Wireframes
+ - Desktop:
 ![types_desktop](assets/image/wireframes_types_desktop.png)
+ - Iphone:
 ![types_iphone](assets/image/wireframes_types_iphone.png)
+ - Ipad:
 ![types_ipad](assets/image/wireframes_types_ipad.png)
 ## Deployment
 ## Credits
