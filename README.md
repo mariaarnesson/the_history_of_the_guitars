@@ -67,7 +67,6 @@ As a visitor to The history of guitars I expect/want/need:
     - Underneath there are several divs in them text and date. Every other one is on the left and every other one is on the right.
     - The date font is bold and in a different font than the rest of the text
 
-
 ## User stories testing:
 
 - Home > Types of guitars > Gallery > Timeline > Contact
@@ -104,6 +103,21 @@ As a visitor to The history of guitars I expect/want/need:
     - information about the history and date can be checked by pressing the timaline button and searching in the text provided on this page.
 
 
+# Manual Testing
+
+Here is a detailed description of how manual testing is performed:
+
+## Testing on desktop
+
+All steps are performed in browsers: Chrome, Edge and Firefox:
+
+- Navigation bar:
+    - Hover over each link has been made. The effect has been confirmed to be correct.
+    - The Home page link has been pressed and confirmed to take the user to the Home page.
+    - The Types of Guitars page link has been pressed and confirmed to take the user to the Types of guitars page.
+    - The Gallery page link has been pressed and confirmed to take the user to the Gallery page.
+    - The Timelines page link has been pressed and confirmed to take the user to the Timelines page.
+    - The Contact page link has been pressed and confirmed to take the user to the Contact page.
 ### Manual (logical) testing of all elements and functionality on every page. 
 
 #### Home Page: 
