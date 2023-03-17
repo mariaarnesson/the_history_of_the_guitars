@@ -37,6 +37,36 @@ No errors were found when passing through the official (Jigsaw) validator
 ![validator](assets/image/validator.png)
 ![validator_css](assets/image/validator_css.png)
 
+# Visitor Stories
+
+As a visitor to The history of guitars I expect/want/need:
+
+- The position structure and purpose of a navigation bar:
+    - A navigation bar is placed at the top of the website.
+    - The navbar shows the user appropriate links
+
+- The position structure and purpose of a footer:
+    - Social media links are provided in the footer.
+
+- The position structure and purpose of a Home Page:
+    - On the Home Page there is a main picture and two sections. 
+    - The first section contains the introductory text and the second section contains four pictures. 
+    - The font is adapted to be legible and visible to users. 
+    - Text and pictures are centered to make the structure easy to read.
+
+- The position structure and purpose of a Types of guitars Page:
+    - On this page there is one section with four divs where each of the divs describes each type of guitar. 
+    - The text is centered and the font is clear and readable for the user.
+
+- The position structure and purpose of a Gallery Page:
+    - At the top of the page is a photo of the guitarist and a quote where the guitarist talks about playing the guitar.
+    - Below is one section with a series of different pictures of guitars.  
+
+- The position structure and purpose of a Timeline Page:
+    - At the top is one image centered in a clear way so that the user can easily understand what the page is about.
+    - Underneath there are several divs in them text and date. Every other one is on the left and every other one is on the right.
+    - The date font is bold and in a different font than the rest of the text
+
 
 ## User stories testing:
 
