@@ -122,6 +122,15 @@ All steps are performed in browsers: Chrome, Edge and Firefox:
 - Footer:
     - Hover over each link has been made. The effect has been confirmed to be correct.
     - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
+
+### Home Page
+
+1. Home Page Images
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - All pictures on the home page have been reviewed and verified to be the correct size.    
+
+2. Home Page Text
+    - It has been confirmed that the title and text are correct and display correctly.    
 ### Manual (logical) testing of all elements and functionality on every page. 
 
 #### Home Page: 
