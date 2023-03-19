@@ -118,6 +118,10 @@ All steps are performed in browsers: Chrome, Edge and Firefox:
     - The Gallery page link has been pressed and confirmed to take the user to the Gallery page.
     - The Timelines page link has been pressed and confirmed to take the user to the Timelines page.
     - The Contact page link has been pressed and confirmed to take the user to the Contact page.
+
+- Footer:
+    - Hover over each link has been made. The effect has been confirmed to be correct.
+    - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
 ### Manual (logical) testing of all elements and functionality on every page. 
 
 #### Home Page: 
