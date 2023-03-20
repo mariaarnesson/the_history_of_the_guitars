@@ -109,8 +109,9 @@ Here is a detailed description of how manual testing is performed:
 
 ## Testing on desktop
 
-All steps are performed in browsers: Chrome, Edge and Firefox:
+All steps are performed in browsers: Chrome, Edge and Firefox.
 
+### This has been verified on every page:
 - Navigation bar:
     - Hover over each link has been made. The effect has been confirmed to be correct.
     - The Home page link has been pressed and confirmed to take the user to the Home page.
@@ -120,7 +121,7 @@ All steps are performed in browsers: Chrome, Edge and Firefox:
     - The Contact page link has been pressed and confirmed to take the user to the Contact page.
 
 - Footer:
-    - Hover over each link has been made. The effect has been confirmed to be correct.
+    - It has been verified that the footer is displayed as expected.
     - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
 
 ### Home Page
@@ -172,6 +173,73 @@ All steps are performed in browsers: Chrome, Edge and Firefox:
     - It has been confirmed that it shows a message with a valid e-mail address if the user enters a name other the e-mail address in the e-mail input field. 
     - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
 
+
+## Testing undertaken on tablet and phone devices
+
+All steps have been entered and checked both in the Firefox browser on the tablet and in the iPhone browser.
+### This has been verified on every page:
+- Navigation bar:
+    - It has been confirmed that on a small screen on a mobile phone the navigation bar is arranged in a list where the pages are stacked one below the other.
+    - It has been confirmed that on the tablet screen the navigation bar is placed in buttons next to each other.
+    - Links on the navigation bar has been pressed and confirmed to take the user to the correct page. 
+
+- Footer:
+    - It has been checked that on the tablet and mobile phone the footer is displayed as expected.
+    - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
+
+
+### Home Page
+
+1. Home Page Images
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - All pictures on the home page have been reviewed and verified to be the correct size.    
+
+2. Home Page Text
+    - It has been confirmed that the title and text are correct and display correctly.    
+
+
+### Types of guitars Page
+
+1. Text
+     - It has been confirmed that the title and text are correct and display correctly.
+
+### Gallery Page
+
+1. Quote
+     - It has been confirmed that the quote is correct, in the right place and display correctly. 
+
+2. Gallery Page Images
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - All pictures on the gallery page have been reviewed and verified to be the correct size and on correct place. 
+
+### Timeline Page
+
+1. Timeline Page Image
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+
+2. Timeline Page Text
+    - It has been confirmed that the title and text are correct and display correctly and on correctly place. 
+
+3. Timeline Page Circles 
+    - The circles are displayed in the correct place - in the middle between one and the other event text.
+
+### Contact Page
+
+1. Contact Page Image next to the form
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+
+2. Contact Page Text
+    - It has been confirmed that the title and text are correct and display correctly and on correctly place.
+
+3. Contact Page Form
+    - It has been confirmed that the contact page form is laid out as expected.
+    - It has been confirmed that if a user submits a form without filling out the required fields, a message is shown to complete them.
+    - It has been confirmed that it shows a message with a valid e-mail address if the user enters a name other the e-mail address in the e-mail input field. 
+    - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
+
+
+
+    
 
 
 
