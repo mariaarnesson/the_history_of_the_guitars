@@ -15,6 +15,9 @@ body {
     position: relative;
     padding-bottom: 58px;
 }
+.thank_you_image {
+    width: 1200px
+}
 
 nav {
 	padding: 1rem;
@@ -47,6 +50,14 @@ h2 {
     font-family: Caveat, sans-serif;
     text-align: center;
     letter-spacing: 0px;
+}
+.jimi {
+    width: 600px;
+    height: 400px;
+}
+.gallery {
+    width: 600px;
+    height: 600px;
 }
 
 #start {

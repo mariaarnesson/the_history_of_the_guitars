@@ -417,3 +417,5 @@ All steps have been entered and checked both in the Firefox browser on the table
 
 ### The icons in the footer were taken from:
 - [Font Awesome](https://fontawesome.com/icons/dumbbell?s=solid&f=classic)
+
+- [designe](https://www.typewolf.com/site-of-the-day/third-west-studio) - This site was the inspiration for my project. The background was used in a similar shade of color and the <hr> element was used in some places to divide the page.
