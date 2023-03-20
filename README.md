@@ -191,45 +191,45 @@ All steps have been entered and checked both in the Firefox browser on the table
 ### Home Page
 
 1. Home Page Images
-    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
     - All pictures on the home page have been reviewed and verified to be the correct size.    
 
 2. Home Page Text
-    - It has been confirmed that the title and text are correct and display correctly.    
+    - It has been confirmed that the title and text on the mobile phone and tablet screen are correct and display correctly.    
 
 
 ### Types of guitars Page
 
 1. Text
-     - It has been confirmed that the title and text are correct and display correctly.
+     - It has been confirmed that the title and text are correct and display correctly on the mobile phone and tablet screen
 
 ### Gallery Page
 
 1. Quote
-     - It has been confirmed that the quote is correct, in the right place and display correctly. 
+     - It has been confirmed that the quote is correct, in the right place and display correctly on the mobile phone and tablet screen.
 
 2. Gallery Page Images
-    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
-    - All pictures on the gallery page have been reviewed and verified to be the correct size and on correct place. 
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
+    - All pictures on the gallery page on the mobile phone and tablet screen have been reviewed and verified to be the correct size and on correct place. 
 
 ### Timeline Page
 
 1. Timeline Page Image
-    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
 
 2. Timeline Page Text
-    - It has been confirmed that the title and text are correct and display correctly and on correctly place. 
+    - It has been confirmed that the title and text on the mobile phone and tablet screen is correct and display correctly and on correctly place. 
 
 3. Timeline Page Circles 
-    - The circles are displayed in the correct place - in the middle between one and the other event text.
+    - The circles on the mobile phone and tablet screen are displayed in the right place - as the background of the event text.
 
 ### Contact Page
 
 1. Contact Page Image next to the form
-    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
 
 2. Contact Page Text
-    - It has been confirmed that the title and text are correct and display correctly and on correctly place.
+    - It has been confirmed that the title and text on the mobile phone and tablet screen is correct and display correctly and on correctly place.
 
 3. Contact Page Form
     - It has been confirmed that the contact page form is laid out as expected.
@@ -239,7 +239,7 @@ All steps have been entered and checked both in the Firefox browser on the table
 
 
 
-    
+
 
 
 
