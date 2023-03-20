@@ -1,1 +1,1 @@
-[result html](result_index_part1.png)
+[result html](test/test_validator/result_index_part2.png)
