@@ -255,13 +255,17 @@ fotter {
 }
 
 .login-box {
-           position: relative;
-           margin: 5% auto;
-           height: 400px;
-           width: 600px;
-          
-           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    position: relative;
+    margin: 5% auto;
+    height: 704px;
+    width: 599px;
+    background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    margin-left: -8px;
+    background-color: white;
 }
+
 .left-box {
           position: absolute;
           margin-top: 0;
@@ -294,7 +298,14 @@ input[type="email"] {
                        font-weight: 400;
                        font-size: 15px;
 }
-
+#the-message {
+    width: 17em;
+    height: 18em;
+    border-style: solid 1px grey;
+}
+.details {
+    text-align: left;
+}
 input[type="submit"] {
                      margin-bottom: 28px;
                      width: 120px;
