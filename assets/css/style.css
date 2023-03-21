@@ -15,7 +15,7 @@ body {
     position: relative;
     padding-bottom: 58px;
 }
-.thank_you_image {
+.thank_you {
     width: 1200px
 }
 
@@ -259,7 +259,7 @@ fotter {
            margin: 5% auto;
            height: 400px;
            width: 600px;
-           background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
+          
            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
 }
 .left-box {
@@ -270,6 +270,9 @@ fotter {
           padding: 40px;
           width: 300px;
           height: 400px;
+}
+.right-box {
+    background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
 }
 h1 {
     margin: 0 0 20px 0;
