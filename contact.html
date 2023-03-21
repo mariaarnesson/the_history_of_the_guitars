@@ -28,218 +28,51 @@
         </header>
         <section id="comment">
             <div>
-                <h1>Leave a comment</h1>
-                   <p>I welcome your views and comments on any aspect. You can get in touch with me in the following ways 
-                    by using the forms on this page and sign up.</p>
-                   <p>You can also get in touch with me by phoning:
 
-                    For Comments call: 0123 456 789.</p>   
-                    <form action="/action_page.php">
-                        <label for="email">Enter your email:</label>
-                        <input type="email" id="email" name="email">
-                        <input type="submit">
-                      </form>
-            </div>
-        </section>
-        <section>
-            <div class="login-box">
-                <div class="left-box">
-                    <form method="POST" action="https://formdump.codeinstitute.net/" target="_blank">
-                        <h1>Sign Up</h1>
-                        <input type="text" name="username" placeholder="Username" required>
-                        <input type="text" name="email" placeholder="Email" required>
-                        <input type="text" name="password" placeholder="Password" required>
-                        <input type="submit" name="signup-button" value="Sign Up" class="button">   
-                    </form>    
+
+                <h1>DO YOU HAVE ANY QUESTIONS OR PROPOSALS?</h1>
+                <p>For any enquiries, please use the form below. We are also open to new ideas and projects</p>
+           
+
+
+                <div class="login-box">
+                    <div class="left-box">
+                <div class="container">
+                   
+                    <form action="thank_you.html" method="GET">
+                      <div class="user__details">
+                        <div class="input__box">
+                          <span class="details">Full Name</span>
+                          <input type="text" placeholder="E.g: Maria" required>
+                        </div>
+                        <div class="input__box">
+                          <span class="details">Username</span>
+                          <input type="text" placeholder="johnWC98" required>
+                        </div>
+                        <div class="input__box">
+                          <span class="details">Email</span>
+                          <input type="email" placeholder="johnsmith@hotmail.com" required>
+                        </div>
+                        <div>
+                            <label for="the-message">Message</label>
+                            <textarea name="message" id="the-message"></textarea>
+                        </div>
+                      </div>
+                      <div class="gender__details">
+                        <input type="radio" name="gender" id="dot-1">
+                        <span class="gender__title">I agree to receive newsletters and commercial communications.</span>
+                        </div>
+                      </div>
+                      <div class="button">
+                        <input type="submit" value="Submit">
+                      </div>
+                    </form>
+                  </div>
                 </div>
                 <div class="right-box"></div>  
             </div>
-                <div>
-                
-                <form action="https://formdump.codeinstitute.net" method="POST">
-
-                    <fieldset>
-                        <legend>Your details</legend>
-                
-                        <div>
-                            <label for="name-field">Name</label>
-                            <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
-                        </div>
-                        <div>
-                            <label for="email-field">Email</label>
-                            <input id="email-field" type="email" name="email" placeholder="Your email" required>
-                        </div>
-                
-                        <label for="age">Age</label>
-                        <select id="age" name="age" required>
-                            <option value="under-20">Under 20</option>
-                            <option value="20s">20-29</option>
-                            <option value="30s">30-39</option>
-                            <option value="40s">40-49</option>
-                            <option value="50s">50-59</option>
-                            <option value="60+">60+</option>
-                        </select>
-                
-                    </fieldset>
-                
-                        
-                        <fieldset>
-                            <legend>Our products</legend>
-                            <div>
-                                <label for="fav-coffee">What is your favourite coffee?</label>
-                                <input id="fav-coffee" list="coffees" name="fav-coffee" required>
-                                <datalist id="coffees">
-                                    <option value="Latte">
-                                    <option value="Americano">
-                                    <option value="Cappuccino">
-                                    <option value="Espresso">
-                                    <option value="Flat-white">
-                                </datalist>
-                            </div>
-                
-                            <p>How many cups of coffee do you drink a day?</p>
-                
-                            <input id="0-2cups-radio" name="cups-a-day" value="0-2cups" type="radio" required>
-                            <label for="0-2cups-radio">0 to 2 cups</label>
-                
-                            <input id="3-5cups-radio" name="cups-a-day" value="3-5cups" type="radio" required>
-                            <label for="3-5cups-radio">3 to 5 cups</label>
-                
-                            <input id="6-8cups-radio" name="cups-a-day" value="6-8cups" type="radio" required>
-                            <label for="6-8cups-radio">6 to 8 cups</label>
-                
-                            <input id="9plus-cups-radio" name="cups-a-day" value="9plus-cups" type="radio" required>
-                            <label for="9plus-cups-radio">9 or more cups</label>
-                
-                            <p>How often do you visit Coders Coffeehouse?</p>
-                
-                            <input id="once-a-week" name="visit-frequency" value="once-a-week" type="radio" required>
-                            <label for="once-a-week">Once a week</label>
-                
-                            <input id="twice-a-week" name="visit-frequency" value="twice-a-week" type="radio" required>
-                            <label for="twice-a-week">Twice a week</label>
-                
-                            <input id="once-a-fortnight" name="visit-frequency" value="once-a-fortnight" type="radio" required>
-                            <label for="once-a-fortnight">Once a fortnight</label>
-                
-                            <input id="not-often" name="visit-frequency" value="not-often" type="radio" required>
-                            <label for="not-often">Not often</label>
-                
-                            <p>Which of our coders coffeehouse snacks do you enjoy?</p>
-                            <div>
-                                <input type="checkbox" id="brownies-checkbox" name="brownies">
-                                <label for="brownies-checkbox">Brownies</label>
-                            </div>
-                            <div>
-                                <input type="checkbox" id="cookies-checkbox" name="cookies">
-                                <label for="cookies-checkbox">Cookies</label>
-                            </div>
-                            <div>
-                                <input type="checkbox" id="nachos-checkbox" name="nachos">
-                                <label for="nachos-checkbox">Nachos</label>
-                            </div>
-                            <div>
-                                <input type="checkbox" id="croissants-checkbox" name="croissants">
-                                <label for="croissants-checkbox">Croissants</label>
-                            </div>
-                            <div>
-                                <input type="checkbox" id="scones-checkbox" name="scones">
-                                <label for="scones-checkbox">Scones</label>
-                            </div>	
-                        </fieldset>
-                
-                        <fieldset>
-                            <legend>Feedback</legend>
-                            <label for="feedback">How can we improve your experience with us?</label>
-                            <br>
-                            <textarea id="feedback" rows="4" cols="87" name="feedback"></textarea>
-                        </fieldset>
-                
-                
-                        <button type="submit">
-                            <strong>Enter prize draw</strong>
-                        </button>
-                        <input type="reset" value="Reset Form">
-                
-                    </form>
-                
-           
-            <div class="login-box">
-                <div class="left-box">    
-                <form action="thank_you.html" method="get">
-                    <div class="">
-                      <label for="name">Your Name</label>
-                      <input type="text" id="name" name="name" placeholder="John Doe" required>
-                    </div>
-                    <div><label for="password">Password</label><input type="password" id="password" name="password" required="required" /></div>
-                    <div class="">
-                        <label for="email">Your E-mail</label>
-                        <input type="email" id="email" name="email" placeholder="john.doe@email.com" required>
-                      </div>
-                      <label for="message">Anything Else?</label>
-                      <textarea id="message" name="visitor_message" placeholder="Tell us anything else that might be important." required></textarea>
-                    </div>
-                   <div>
-                    <button type="submit"> 
-                   </div>
-                  </form>
-            </div>
-            <div class="right-box"></div>
-                </div>
-        </section>
-        <hr>
-        <div class="login-box">
-            <div class="left-box">
-        <div class="container">
-            <div class="title"><h1>Registration</h1></div>
-            <form action="thank_you.html" method="GET">
-              <div class="user__details">
-                <div class="input__box">
-                  <span class="details">Full Name</span>
-                  <input type="text" placeholder="E.g: Maria" required>
-                </div>
-                <div class="input__box">
-                  <span class="details">Username</span>
-                  <input type="text" placeholder="johnWC98" required>
-                </div>
-                <div class="input__box">
-                  <span class="details">Email</span>
-                  <input type="email" placeholder="johnsmith@hotmail.com" required>
-                </div>
-                <div class="input__box">
-                  <span class="details">Password</span>
-                  <input type="password" placeholder="********" required>
-                </div>
-                <div class="input__box">
-                  <span class="details">Confirm Password</span>
-                  <input type="password" placeholder="********" required>
-                </div>
-          
-              </div>
-              <div class="gender__details">
-                <input type="radio" name="gender" id="dot-1">
-                <input type="radio" name="gender" id="dot-2">
-                <input type="radio" name="gender" id="dot-3">
-                <span class="gender__title">Gender</span>
-                <div class="category">
-                  <label for="dot-1">
-                    <span class="dot one"></span>
-                    <span>Male</span>
-                  </label>
-                  <label for="dot-2">
-                    <span class="dot two"></span>
-                    <span>Female</span>
-                  </label>
-                </div>
-              </div>
-              <div class="button">
-                <input type="submit" value="Register">
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="right-box"></div>  
-    </div>
+                    
+                   
         <footer>
             <div id="social-networks">
                 <div>
